@@ -21,6 +21,7 @@ Short-form comedy videos featuring dogs. Visual-only gags — no dialogue needed
 | # | Title | Duration | Status | Script |
 |---|-------|----------|--------|--------|
 | 1 | 🔥 **Firecracker Fiasco** | ~10-15s | ✅ Script Ready | [View Script →](pet-comedy/01-firecracker-fiasco/README.md) |
+| 2 | 🐱 **Cat Firecracker Fiasco** | ~15-18s | ✅ Script Ready | [View Script →](pet-comedy/02-cat-firecracker-fiasco/README.md) |
 
 ### Concept
 

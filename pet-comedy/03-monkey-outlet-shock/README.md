@@ -3,6 +3,8 @@
 > **Duration:** 10 seconds flat
 >
 > **Comedy Structure:** Setup → Action → Chaos → Punchline (fast, no filler)
+>
+> **📋 [COPY THE FULL PROMPT →](master-prompt.md)** — one prompt, 10 seconds, ready to paste into any AI video generator
 
 ---
 
